@@ -1,6 +1,7 @@
 # 💫 About Me:
 Soy un apasionado de la tecnología y el desarrollo web, cursando la carrera de Ing. de Sistemas con un fuerte deseo de iniciar mi carrera en el mundo de la creación de sitios web y aplicaciones. Aunque aún no cuento con experiencia laboral directa en el campo, he adquirido conocimientos sólidos y habilidades técnicas a lo largo de mis estudios y proyectos personales.
 
+I am passionate about technology and web development, currently pursuing a degree in Systems Engineering with a strong desire to start my career in the world of website and application creation. Although I do not yet have direct work experience in the field, I have gained solid knowledge and technical skills throughout my studies and personal projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/followerspaneld/) 
